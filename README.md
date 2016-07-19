@@ -2,9 +2,9 @@
 
 # Display screen <-> Raspberry Pi
 # +--------------+---------------+
-# |   LCD1602    |  RaspberryPI  |
+# |   LCD1602    |  RaspberryPi  |
 # +--------------+---------------+
-# | Yellow(GND)	 |		   6       |
+# | Yellow(GND)  |	     6       |
 # | Orange(VCC)	 |		   2       |
 # |  Red (SDA)	 |		   3       |
 # | Brown(SCL)	 |		   5       |
